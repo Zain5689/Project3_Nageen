@@ -1,0 +1,10 @@
+/****Notes*******/
+1 - Asyn;
+2 - sync;
+3 - Await;
+(code) => Asynchrons;
+
+Video === 86
+
+**** Auth 
+Token => 
